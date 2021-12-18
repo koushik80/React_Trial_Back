@@ -31,7 +31,7 @@ const R: React.FC = () => {
 
         <
         Route path = "*"
-        component = { NotFound }
+        element = { NotFound }
         /> < /
         Routes > < /
         div > <
